@@ -1,0 +1,63 @@
+{
+  "plantsData": [
+    {
+      "id": 1,
+      "name": "Aloe Vera",
+      "category": "Succulent",
+      "waterSchedule": "Every 2 weeks",
+      "sunlight": "Bright indirect light",
+      "lastWatered": "2025-10-10",
+      "notes": "Medicinal plant; avoid overwatering.",
+      "image": "https://static0.backyardbossimages.com/wordpress/wp-content/uploads/2022/05/Untitled-design-87-1.png?q=50&fit=crop&w=825&dpr=1.5"
+    },
+    {
+      "id": 2,
+      "name": "Money Plant",
+      "category": "Indoor Vine",
+      "waterSchedule": "Twice a week",
+      "sunlight": "Low to medium light",
+      "lastWatered": "2025-10-14",
+      "notes": "Grows fast in water or soil.",
+      "image": "https://image.minne.com/minne/mobile_app_product/680x680cq85/4a9a8baedad465ee10533bd6c4cd8384030801a3.jpeg/productimages/152702312/w1600xh1600/2f45ec183533862b740e62f19c0b4ca9be36ea06.jpeg?1657854839"
+    },
+    {
+      "id": 4,
+      "name": "Basil (Tulsi)",
+      "category": "Herb",
+      "waterSchedule": "Daily (small amount)",
+      "sunlight": "Full morning sunlight",
+      "lastWatered": "2025-10-17",
+      "notes": "Holy plant; repels insects.",
+      "image": "https://deepharvestfarm.com/wp/wp-content/uploads/08C4DAAB-AFE0-4943-A964-FAFAC3EBD908_1_201_a.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Snake Plant",
+      "category": "Indoor Air Purifier",
+      "waterSchedule": "Once every 3 weeks",
+      "sunlight": "Low light",
+      "lastWatered": "2025-10-02",
+      "notes": "Very low maintenance.",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1682590848-easy-house-plants-for-beginners-12.jpg?fp-x=0.5&fp-y=0.5&fit=crop&auto=compress%2Cformat&cs=srgb&ar=1200%3A800&w=1200"
+    },
+    {
+      "id": 6,
+      "name": "Lavender",
+      "category": "Aromatic Herb",
+      "waterSchedule": "Weekly",
+      "sunlight": "Full sun",
+      "lastWatered": "2025-10-13",
+      "notes": "Fragrant plant; attracts bees.",
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6"
+    },
+    {
+      "name": "Rose",
+      "category": "Flowering",
+      "waterSchedule": "Every 3 days",
+      "lastWatered": "2025-10-16",
+      "notes": "smell nice symbol of love and sadness",
+      "image": "https://i3.wp.com/img.freepik.com/premium-photo/red-roses-flower-petal-love-romantic-dozen-nature-garden-beautiful-plant_578070-68.jpg?strip=all",
+      "id": 7
+    }
+  ]
+}
