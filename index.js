@@ -21,7 +21,5 @@ const PORT = process.env.PORT || 3000
 //define the port in which server has to run
 GardenServer.listen(PORT, ()=>{
     console.log(`rbServer running at port ${PORT} and waiting for client request...`);
-    
 })
-
 //in package.json, in scripts change test to, "start": "node index.js"
